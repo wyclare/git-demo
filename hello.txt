@@ -6,5 +6,5 @@ hello git! hello world!
 hello git! hello world!
 hello git! hello world!
 hello git! hello world!
-hello git! hello world!
-hello git! hello world!
+hello git! hello world!-- hotfix change
+hello git! hello world!-- hotfix change
